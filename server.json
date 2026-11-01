@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.BumiAtlas/papuanewguinea-concessions",
+  "title": "Papua New Guinea Mining Tenements, Concessions & Villages",
+  "description": "PNG mining tenements, logging concessions, RSPO palm oil and census villages by point, code or name.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/BumiAtlas/papuanewguinea-concessions-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://bumiatlas.com/mcp-docs/papuanewguinea",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bumiatlas.com/mcp/papuanewguinea"
+    }
+  ]
+}
